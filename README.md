@@ -1,7 +1,3 @@
-다음은 제공해주신 파일들을 바탕으로 작성한 README.md 파일입니다.
-
------
-
 # AI-Powered Personal Beauty Advisor
 
 ## 1\. 프로젝트 배경
