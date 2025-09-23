@@ -1,7 +1,12 @@
 #!/bin/sh
-echo 'This is a sample'
+echo 'This is an installation and build script for beautiAI.'
+
 echo '1. Installation'
-sudo apt-get install tree
+echo 'Installing dependencies from requirements.txt...'
+pip install -r requirements.txt
+
+echo 'Installation complete.'
+
 echo '2. Run'
-echo 'a tree command shows directories and files'
-tree
+echo 'To run the application, execute the following command:'
+echo 'python app.py'
