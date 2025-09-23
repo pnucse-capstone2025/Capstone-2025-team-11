@@ -126,8 +126,8 @@
 1.  **저장소 복제:**
 
     ```bash
-    git clone https://github.com/noah0615/beautiAI.git
-    cd beautiAI
+    git clone https://github.com/pnucse-capstone2025/Capstone-2025-team-11.git
+    cd Capstone-2025-team-11.git
     ```
 
 2.  **가상 환경 생성 및 활성화 (권장):**
@@ -144,10 +144,10 @@
     pip install -r requirements.txt
     ```
 
-4.  **Flask 애플리케이션 실행:**
+4.  **app.py 애플리케이션 실행:**
 
     ```bash
-    flask run --host=0.0.0.0 --port=5001
+    python app.py
     ```
 
 5.  웹 브라우저에서 `http://127.0.0.1:5001` 주소로 접속합니다.
