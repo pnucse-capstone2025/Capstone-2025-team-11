@@ -1,6 +1,6 @@
 퍼스널 컬러 AI와 
 메이크업 AI 제작을 위해 
-사용한 colab 코드들
+colab 환경에서 작성한 코드
 
 [Title](link)
 [얼굴 5000장 데이터셋](https://drive.google.com/drive/folders/1pG1HFG35dquS_-qjjh0hVJNPoTcxvdKl?usp=sharing)
