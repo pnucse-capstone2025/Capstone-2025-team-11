@@ -161,7 +161,7 @@
 
 ### 6.1. 프로젝트 소개 자료
 
-![프로젝트 PPT](https://drive.google.com/file/d/1WnumgM_srBqD5gdajGxPyb5-ZID8jECj/view?usp=drive_link)
+[프로젝트 소개 자료](https://docs.google.com/presentation/d/14MTlQ9i0AsGCralzWvKXIFZWejL5MKH3/edit?usp=sharing&ouid=111842259223879172074&rtpof=true&sd=true)
 
 ### 6.2. 시연 영상
 
