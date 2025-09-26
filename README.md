@@ -165,7 +165,7 @@
 
 ### 6.2. 시연 영상
 
-(프로젝트의 주요 기능을 시연하는 영상 링크를 여기에 추가할 수 있습니다.)
+[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?si=XCs3NZHW47da-GcV&v=k5bF-HZpHNc&feature=youtu.be)
 
 ## 7\. 팀 구성
 
