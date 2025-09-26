@@ -165,7 +165,7 @@
 
 ### 6.2. 시연 영상
 
-[![부산대학교 정보컴퓨터공학부 소개](http://img.youtube.com/vi/zh_gQ_lmLqE/0.jpg)](https://www.youtube.com/watch?si=XCs3NZHW47da-GcV&v=k5bF-HZpHNc&feature=youtu.be)
+[![2025 전기졸업과제 11 Underdog](youtube.com/watch?si=XCs3NZHW47da-GcV&v=k5bF-HZpHNc&feature=youtu.be.jpg)](https://www.youtube.com/watch?si=XCs3NZHW47da-GcV&v=k5bF-HZpHNc&feature=youtu.be)
 
 ## 7\. 팀 구성
 
