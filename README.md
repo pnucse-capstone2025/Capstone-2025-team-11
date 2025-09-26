@@ -165,7 +165,7 @@
 
 ### 6.2. 시연 영상
 
-[![2025 전기졸업과제 11 Underdog](https://drive.google.com/file/d/1WnumgM_srBqD5gdajGxPyb5-ZID8jECj/view?usp=sharing)](https://www.youtube.com/watch?si=XCs3NZHW47da-GcV&v=k5bF-HZpHNc&feature=youtu.be)
+[![2025 전기졸업과제 11 Underdog](https://www.youtube.com/watch?v=k5bF-HZpHNc/0.jpg)](https://www.youtube.com/watch?si=XCs3NZHW47da-GcV&v=k5bF-HZpHNc&feature=youtu.be)
 
 ## 7\. 팀 구성
 
